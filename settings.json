@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "swordart.play.hosting",
-    "port": 25565,
+    "ip": "coincardlonei.aternos.me",
+    "port": 35021,
     "version": "",
     "try-creative": false
   },
