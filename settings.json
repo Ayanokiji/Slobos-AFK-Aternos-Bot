@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "0.0.0.0",
-    "port": 30688,
+    "ip": "obsidian.swiftsrv.org",
+    "port": 25565,
     "version": "",
     "try-creative": false
   },
